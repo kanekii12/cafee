@@ -1,0 +1,72 @@
+body{
+ 
+    background-image: url(./hand-drawn-coffee-concept-background-free-vector.jpg)
+}
+h1,h2,p{
+    text-align: center;
+}
+h1,h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.container{
+    background-color: burlywood;
+    width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+padding-bottom: 0;
+}
+.established{
+    font-family: 'Courier New', Courier, monospace;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.flavor{
+    display: inline-block;
+    width: 47%;
+    text-align: left;
+    margin: 7px;
+}
+.price{
+    display: inline-block;
+    width: 48%;
+    text-align: right;
+    margin: 0;
+}
+a{
+    margin-left: 170px;
+    margin-bottom: 0px;
+    color: brown;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+a:hover{
+    opacity: 0.3;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: white
+}
+.item p {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
